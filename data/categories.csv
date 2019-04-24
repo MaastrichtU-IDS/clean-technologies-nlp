@@ -1,0 +1,105 @@
+IPCC sectoral category	Technology group	Technology
+Energy	Solar energy sources	solar PV
+Energy	Solar energy sources	concentrated solar power (CSP)
+Energy	Solar energy sources	solar heating
+Energy	Solar energy sources	solar dryer
+Energy	Solar energy sources	solar water pump
+Energy	Hydro energy sources	tidal energy
+Energy	Hydro energy sources	wave energy
+Energy	Hydro energy sources	ocean thermal energy conversion (OTEC)
+Energy	Other renewable energy sources	geothermal
+Energy	Other renewable energy sources	osmotic
+Energy	Other renewable energy sources	downdraft
+Energy	Other renewable energy sources	updraft
+Energy	System innovation	grid management
+Energy	System innovation	low GHG transmission
+Energy	System innovation	combined cycle power plant
+Energy	Storage	energy storage
+Energy	Storage	thermal storage
+Energy	Storage	compressed air energy storage (CAES)
+Energy	Nuclear energy sources	nuclear fission
+Energy	Nuclear energy sources	nuclear fusion
+Energy	Wind	onshore wind
+Energy	Wind	offshore wind
+Transport	Fuel	biofuel
+Transport	Fuel	fuel cell
+Transport	Fuel	electric battery
+Transport	Fuel	liquefied natural gas (LNG)
+Transport	Fuel	compressed/converted natural gas
+Transport	Vehicle design	electric vehicle design
+Transport	Vehicle design	low GHG aircraft design
+Transport	Vehicle design	low GHG freight design
+Transport	Vehicle design	lightweight transport design
+Transport	Vehicle design	non-motorised transport design
+Transport	Vehicle design	low GHG public transport / rapid transit design
+Transport	System innovation	low GHG logistics
+Transport	System innovation	traffic management
+Transport	System innovation	reduced need for travel
+Transport	System innovation	regenerative braking
+Transport	Behavioural change	modal shift
+Transport	Behavioural change	demand management
+Buildings	Building design	passive house
+Buildings	Building design	low GHG envelope
+Buildings	Building design	daylight harnessing
+Buildings	Building design	cool roof
+Buildings	Building design	innovative construction
+Buildings	Interior appliance design	combined heat and power (CHP)
+Buildings	Interior appliance design	low GHG lighting
+Buildings	Decreased energy consumption design or practices	demand-side energy management
+Buildings	Decreased energy consumption design or practices	low GHG air conditioning
+Buildings	Decreased energy consumption design or practices	low GHG refrigeration
+Buildings	Decreased energy consumption design or practices	low GHG appliances
+Buildings	Building management	building management
+Industry	Manufacturing innovation	low GHG steel
+Industry	Manufacturing innovation	low GHG cement
+Industry	Manufacturing innovation	low GHG coolant/refrigerant
+Industry	Manufacturing innovation	low GHG chemicals
+Industry	Manufacturing innovation	methane capture
+Industry	Manufacturing innovation	biorefinery design
+Industry	Manufacturing innovation	pulp and paper drying
+Industry	Manufacturing innovation	wet/dry quenching
+Industry	Manufacturing innovation	reuse of material
+Industry	Manufacturing innovation	distributed manufacturing
+Industry	CCS	carbon capture and storage
+Industry	CCS	carbon use
+Industry	Energy use innovation	gas turbine
+Industry	Energy use innovation	low GHG data centers
+Industry	Energy use innovation	smelt reduction
+Industry	Energy use innovation	inert anode
+Industry	Energy use innovation	direct casting
+Industry	Energy use innovation	waste heat reuse
+Industry	Energy use innovation	energy-from-waste
+Industry	Use of innovative materials	nanomaterial
+Industry	Use of innovative materials	bioplastics
+Industry	Use of innovative materials	biopolymer
+Industry	Improved durability	improved durability
+Human settlements	Energy management	district heating and/or cooling
+Human settlements	Energy management	heat pumps
+Human settlements	Energy management	micro-grids
+Human settlements	Energy management	off-grid systems
+Human settlements	Waste management	recycling
+Human settlements	Waste management	waste management
+Human settlements	Waste management	landfill composting
+Human settlements	Waste management	gasification of waste
+Human settlements	Waste management	landfill biocover
+Human settlements	Urban forestry	urban forestry
+Agriculture	Emissions and pollution reduction	direct seeding
+Agriculture	Emissions and pollution reduction	straw ammoniation and silage
+Agriculture	Emissions and pollution reduction	conservation tillage
+Agriculture	Emissions and pollution reduction	cover crop
+Agriculture	Emissions and pollution reduction	livestock management
+Agriculture	Emissions and pollution reduction	nutrient management
+Agriculture	Emissions and pollution reduction	low GHG food-delivery chain
+Agriculture	Emissions and pollution reduction	electron acceptor
+Agriculture	Emissions and pollution reduction	mid-season drainage
+Agriculture	Emissions and pollution reduction	methane reduction
+Agriculture	Emissions and pollution reduction	low GHG fertiliser
+Agriculture	Emissions and pollution reduction	manure management
+Agriculture	Resource saving	straw management
+Agriculture	Resource saving	alternate wetting and drying
+Agriculture	Resource saving	soil management
+Agriculture	Forest protection	forest management
+Agriculture	Forest protection	agroforestry
+Agriculture	Forest protection	afforestation
+Agriculture	Cleaner product	new sources of protein
+Agriculture	Cleaner product	biochar
