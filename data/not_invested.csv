@@ -1,0 +1,34 @@
+sector,technology_group,technology,priority
+Energy,Solar energy sources,solar dryer,0
+Energy,Solar energy sources,solar water pump,0
+Energy,System innovation,low GHG transmission,1
+Transport,Fuel,electric battery,1
+Transport,Vehicle design,low GHG aircraft design,1
+Transport,Vehicle design,low GHG freight design,1
+Transport,Vehicle design,lightweight transport design,1
+Buildings,Building design,low GHG envelope,1
+Buildings,Building design,daylight harnessing,1
+Buildings,Building design,cool roof,1
+Buildings,Decreased energy consumption design or practices,low GHG air conditioning,0
+Buildings,Decreased energy consumption design or practices,low GHG refrigeration,0
+Industry,Manufacturing innovation,low GHG cement,1
+Industry,Manufacturing innovation,low GHG coolant/refrigerant,1
+Industry,Manufacturing innovation,low GHG chemicals,1
+Industry,Manufacturing innovation,methane capture,0
+Industry,Manufacturing innovation,pulp and paper drying,1
+Industry,Manufacturing innovation,wet/dry quenching,0
+Industry,Manufacturing innovation,slag granulation,1
+Industry,Energy use innovation,smelt reduction,1
+Industry,Energy use innovation,direct casting,1
+Human settlements,Waste management,landfill composting,0
+Human settlements,Waste management,gasification of waste,1
+Human settlements,Waste management,landfill biocover,0
+Human settlements,Urban forestry,urban forestry,0
+Agriculture,Emissions and pollution reduction,increase of forage digestibility,0
+Agriculture,Emissions and pollution reduction,conservation tillage,0
+Agriculture,Emissions and pollution reduction,cover crop,1
+Agriculture,Emissions and pollution reduction,low GHG food-delivery chain,0
+Agriculture,Emissions and pollution reduction,mid-season drainage,0
+Agriculture,Emissions and pollution reduction,low GHG fertiliser,1
+Agriculture,Resource saving,straw management,0
+Agriculture,Resource saving,alternate wetting and drying,0
