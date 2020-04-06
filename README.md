@@ -1,15 +1,32 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3570769.svg)](https://doi.org/10.5281/zenodo.3570769)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Green](https://img.shields.io/badge/green-project-green)
+
 ---
 
-### Toward aligning the EU innovation policy with the demand for clean technologies in 1.5 degree worlds: a qualitative and computational study on H2020 projects.
+## Towards aligning EU innovation policy with climate goals: A qualitative-computational assessment of Horizon 2020 funding.
 
 ---
 
-Funding dynamics of the most important clean technologies over time.
+#### Funding dynamics of the most important clean technologies over time.
 ![](images/figure6.png)  
-Total cumulative number of projects and total contribution in million euro made by the EU per sector and technology group during the H2020 framework programme. 
+
+---
+
+#### Total cumulative number of projects and total contribution in million euro made by the EU per sector and technology group during the H2020 framework programme. 
 ![](images/figure3.png)  
-Prioritised (below) and non-prioritised (above) technologies costing 50 mln and less, per sector
+
+---
+
+#### Prioritised (below) and non-prioritised (above) technologies costing 50 mln and less, per sector
 ![](images/figure4b.png)  
-Current de facto prioritisation of technologies per category in Horizon 2020 over time (2019 data until the third quarter)
+
+---
+
+#### Current de facto prioritisation of technologies per category in Horizon 2020 over time (2019 data until the third quarter)
 ![](images/figure5.png)  
+
+---
+
+Copyright (C) 2019, Pedro V. Hernández Serrano, Seun Adekunle.  
+This program is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) as published by the Free Software Foundation, either version 3 of the License, or any later version.
