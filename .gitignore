@@ -106,3 +106,9 @@ venv.bak/
 #data dir
 paper/
 to_dump_out/
+
+# DS store
+.DS_Store
+images/.DS_Store
+data/.DS_Store
+notebooks/.DS_Store
