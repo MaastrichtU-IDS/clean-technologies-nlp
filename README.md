@@ -78,5 +78,5 @@ Unfortunately, this data does not have a data service available due to a lack of
 [The code contained in this Github repository](https://nbviewer.org/github/MaastrichtU-IDS/clean-technologies-nlp/tree/master/notebooks/) is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) as published by the Free Software Foundation, either version 3 of the License, or any later version.
 
 **Data LICENSE**  
-The data terms of use are specific for this research project. There can be found in **[/clean-technologies-nlp/data/LICENSE](https://github.com/MaastrichtU-IDS/clean-technologies-nlp/tree/master/data/LICENSE)** document.
+The data terms of use are specific for this research project. There can be found in **[/clean-technologies-nlp/data/LICENSE](https://github.com/MaastrichtU-IDS/clean-technologies-nlp/tree/master/data/README.md)** document.
 
