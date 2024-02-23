@@ -6,6 +6,8 @@
 
 ## A qualitative-computational cataloguing of the EU-level public research and innovation portfolio of clean energy technologies (2014–2020)
 
+**Dataset available in DataverseNL at: [dataverse.nl/doi:10.34894/Q80QUE](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/Q80QUE)**
+
 To better allocate funds in the new EU research framework programme Horizon Europe, an assessment of current and past efforts is crucial. In this paper **we develop and apply a multi-method qualitative and computational approach to provide a catalogue of climate crisis mitigation technologies on the EU level between 2014 and 2020**. Using the approach, we observed no public EU-level funding for multiple technologies prioritised by the EU, such as low-carbon production and use of cement and chemicals, electric battery, and a number of industrial decarbonisation processes. We observed a rising trend in the funding of solar power and onshore wind, the adjacent to them power-to-X technology, as well as recycling. At the same time, the shares of funding into fuel cell, biofuel, demand-side energy management, microgrids, and waste management show a decline trend. With note of the exploratory character of the present paper, we propose that the EU Horizon 2020 funding of clean technologies only partially reflected the expectations of key institutionalised EU actors due to the existence of many non-funded prioritised technologies.
 
 > The description and details of the computational framework and data analysis together with the data and file usage is described here: **[Data Analysis Description](https://github.com/MaastrichtU-IDS/clean-technologies-nlp/tree/master/notebooks/README.md)**
